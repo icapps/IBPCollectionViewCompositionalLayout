@@ -68,6 +68,65 @@
 		147537BF230A190F00337C1B /* IBPNSCollectionLayoutSpacing_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 147537BD230A190F00337C1B /* IBPNSCollectionLayoutSpacing_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		147537C7230A6A1300337C1B /* IBPNSCollectionLayoutAnchor_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 147537C5230A6A1300337C1B /* IBPNSCollectionLayoutAnchor_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		14F3F7972300542B0096D032 /* IBPNSCollectionLayoutForwardCompatibility.h in Headers */ = {isa = PBXBuildFile; fileRef = 14F3F7952300542B0096D032 /* IBPNSCollectionLayoutForwardCompatibility.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A113235EDA420018E834 /* IBPNSCollectionLayoutGroupCustomItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D1822F9CBB000F8904D /* IBPNSCollectionLayoutGroupCustomItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A114235EDA420018E834 /* IBPNSCollectionLayoutEnvironment.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D2522F9CBB100F8904D /* IBPNSCollectionLayoutEnvironment.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A115235EDA420018E834 /* IBPNSCollectionLayoutAnchor.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D1D22F9CBB000F8904D /* IBPNSCollectionLayoutAnchor.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A116235EDA420018E834 /* IBPCollectionViewOrthogonalScrollerEmbeddedScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3022F9CBB100F8904D /* IBPCollectionViewOrthogonalScrollerEmbeddedScrollView.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A117235EDA420018E834 /* IBPNSCollectionLayoutDimension.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D4222F9CBB200F8904D /* IBPNSCollectionLayoutDimension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A118235EDA420018E834 /* IBPNSCollectionLayoutGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D2922F9CBB100F8904D /* IBPNSCollectionLayoutGroup.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A119235EDA420018E834 /* IBPNSCollectionLayoutDecorationItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3122F9CBB100F8904D /* IBPNSCollectionLayoutDecorationItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A11A235EDA420018E834 /* IBPNSCollectionLayoutItem_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3722F9CBB200F8904D /* IBPNSCollectionLayoutItem_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A11B235EDA420018E834 /* IBPCollectionViewOrthogonalScrollerSectionController.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D2C22F9CBB100F8904D /* IBPCollectionViewOrthogonalScrollerSectionController.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A11C235EDA420018E834 /* IBPNSRectAlignment.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D1922F9CBB000F8904D /* IBPNSRectAlignment.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A11D235EDA420018E834 /* IBPNSCollectionLayoutSupplementaryItem_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D1722F9CBB000F8904D /* IBPNSCollectionLayoutSupplementaryItem_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A11E235EDA420018E834 /* IBPNSCollectionLayoutVisibleItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D4122F9CBB200F8904D /* IBPNSCollectionLayoutVisibleItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A11F235EDA420018E834 /* IBPNSCollectionLayoutContainer.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3C22F9CBB200F8904D /* IBPNSCollectionLayoutContainer.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A120235EDA420018E834 /* IBPNSCollectionLayoutSpacing_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 147537BD230A190F00337C1B /* IBPNSCollectionLayoutSpacing_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A121235EDA420018E834 /* IBPNSCollectionLayoutSupplementaryItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D2322F9CBB100F8904D /* IBPNSCollectionLayoutSupplementaryItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A122235EDA420018E834 /* IBPUICollectionViewCompositionalLayoutConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3E22F9CBB200F8904D /* IBPUICollectionViewCompositionalLayoutConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A123235EDA420018E834 /* IBPNSCollectionLayoutEdgeSpacing.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3622F9CBB200F8904D /* IBPNSCollectionLayoutEdgeSpacing.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A124235EDA420018E834 /* IBPCollectionCompositionalLayoutSolver.h in Headers */ = {isa = PBXBuildFile; fileRef = 14751C1E230C70ED00B3DC87 /* IBPCollectionCompositionalLayoutSolver.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A125235EDA420018E834 /* IBPNSCollectionLayoutSize.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D4922F9CBB300F8904D /* IBPNSCollectionLayoutSize.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A126235EDA420018E834 /* IBPNSCollectionLayoutSpacing.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D4A22F9CBB300F8904D /* IBPNSCollectionLayoutSpacing.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A127235EDA420018E834 /* IBPNSDirectionalRectEdge.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3822F9CBB200F8904D /* IBPNSDirectionalRectEdge.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A128235EDA420018E834 /* IBPNSCollectionLayoutSection.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3B22F9CBB200F8904D /* IBPNSCollectionLayoutSection.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A129235EDA420018E834 /* IBPNSCollectionLayoutContainer_Protocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D4622F9CBB300F8904D /* IBPNSCollectionLayoutContainer_Protocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A12A235EDA420018E834 /* IBPNSCollectionLayoutEdgeSpacing_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 147537B9230A170100337C1B /* IBPNSCollectionLayoutEdgeSpacing_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A12B235EDA420018E834 /* IBPNSCollectionLayoutGroup_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D1B22F9CBB000F8904D /* IBPNSCollectionLayoutGroup_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A12C235EDA420018E834 /* IBPUICollectionViewCompositionalLayoutConfiguration_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 145DA018230479C700A044D2 /* IBPUICollectionViewCompositionalLayoutConfiguration_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A12D235EDA420018E834 /* IBPNSCollectionLayoutEnvironment_Protocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3322F9CBB100F8904D /* IBPNSCollectionLayoutEnvironment_Protocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A12E235EDA420018E834 /* IBPNSCollectionLayoutItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3422F9CBB100F8904D /* IBPNSCollectionLayoutItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A12F235EDA420018E834 /* IBPUICollectionLayoutSectionOrthogonalScrollingBehavior.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D3522F9CBB200F8904D /* IBPUICollectionLayoutSectionOrthogonalScrollingBehavior.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A130235EDA420018E834 /* IBPNSCollectionLayoutForwardCompatibility.h in Headers */ = {isa = PBXBuildFile; fileRef = 14F3F7952300542B0096D032 /* IBPNSCollectionLayoutForwardCompatibility.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A131235EDA420018E834 /* IBPCollectionViewCompositionalLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D0022F9C81D00F8904D /* IBPCollectionViewCompositionalLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A132235EDA420018E834 /* IBPCollectionCompositionalLayoutSolverResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D2422F9CBB100F8904D /* IBPCollectionCompositionalLayoutSolverResult.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A133235EDA420018E834 /* IBPUICollectionViewCompositionalLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D2D22F9CBB100F8904D /* IBPUICollectionViewCompositionalLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A134235EDA420018E834 /* IBPNSCollectionLayoutBoundarySupplementaryItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D2622F9CBB100F8904D /* IBPNSCollectionLayoutBoundarySupplementaryItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A135235EDA420018E834 /* IBPNSCollectionLayoutAnchor_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 147537C5230A6A1300337C1B /* IBPNSCollectionLayoutAnchor_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A136235EDA420018E834 /* IBPNSCollectionLayoutSection_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D2F22F9CBB100F8904D /* IBPNSCollectionLayoutSection_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A137235EDA420018E834 /* IBPNSCollectionLayoutSize_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D1A22F9CBB000F8904D /* IBPNSCollectionLayoutSize_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		3356A138235EDA420018E834 /* IBPNSDirectionalEdgeInsets.h in Headers */ = {isa = PBXBuildFile; fileRef = 143A2D8122F9CCF900F8904D /* IBPNSDirectionalEdgeInsets.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3356A13A235EDA420018E834 /* IBPNSCollectionLayoutContainer.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D4822F9CBB300F8904D /* IBPNSCollectionLayoutContainer.m */; };
+		3356A13B235EDA420018E834 /* IBPNSCollectionLayoutAnchor.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D4422F9CBB300F8904D /* IBPNSCollectionLayoutAnchor.m */; };
+		3356A13C235EDA420018E834 /* IBPNSCollectionLayoutSpacing.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D2122F9CBB100F8904D /* IBPNSCollectionLayoutSpacing.m */; };
+		3356A13D235EDA420018E834 /* IBPNSCollectionLayoutDecorationItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D3222F9CBB100F8904D /* IBPNSCollectionLayoutDecorationItem.m */; };
+		3356A13E235EDA420018E834 /* IBPCollectionCompositionalLayoutSolver.m in Sources */ = {isa = PBXBuildFile; fileRef = 14751C1F230C70ED00B3DC87 /* IBPCollectionCompositionalLayoutSolver.m */; };
+		3356A13F235EDA420018E834 /* IBPNSCollectionLayoutSupplementaryItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D4B22F9CBB300F8904D /* IBPNSCollectionLayoutSupplementaryItem.m */; };
+		3356A140235EDA420018E834 /* IBPNSCollectionLayoutEdgeSpacing.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D4722F9CBB300F8904D /* IBPNSCollectionLayoutEdgeSpacing.m */; };
+		3356A141235EDA420018E834 /* IBPUICollectionViewCompositionalLayoutConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D3F22F9CBB200F8904D /* IBPUICollectionViewCompositionalLayoutConfiguration.m */; };
+		3356A142235EDA420018E834 /* IBPNSCollectionLayoutSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D4522F9CBB300F8904D /* IBPNSCollectionLayoutSize.m */; };
+		3356A143235EDA420018E834 /* IBPCollectionViewOrthogonalScrollerEmbeddedScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D2222F9CBB100F8904D /* IBPCollectionViewOrthogonalScrollerEmbeddedScrollView.m */; };
+		3356A144235EDA420018E834 /* IBPUICollectionViewCompositionalLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D2E22F9CBB100F8904D /* IBPUICollectionViewCompositionalLayout.m */; };
+		3356A145235EDA420018E834 /* IBPNSCollectionLayoutBoundarySupplementaryItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D3922F9CBB200F8904D /* IBPNSCollectionLayoutBoundarySupplementaryItem.m */; };
+		3356A146235EDA420018E834 /* IBPCollectionCompositionalLayoutSolverResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D4322F9CBB200F8904D /* IBPCollectionCompositionalLayoutSolverResult.m */; };
+		3356A147235EDA420018E834 /* IBPNSCollectionLayoutSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D1E22F9CBB000F8904D /* IBPNSCollectionLayoutSection.m */; };
+		3356A148235EDA420018E834 /* IBPNSCollectionLayoutGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D2022F9CBB100F8904D /* IBPNSCollectionLayoutGroup.m */; };
+		3356A149235EDA420018E834 /* IBPCollectionViewOrthogonalScrollerSectionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D1C22F9CBB000F8904D /* IBPCollectionViewOrthogonalScrollerSectionController.m */; };
+		3356A14A235EDA420018E834 /* IBPNSCollectionLayoutDimension.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D2B22F9CBB100F8904D /* IBPNSCollectionLayoutDimension.m */; };
+		3356A14B235EDA420018E834 /* IBPNSCollectionLayoutGroupCustomItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D3A22F9CBB200F8904D /* IBPNSCollectionLayoutGroupCustomItem.m */; };
+		3356A14C235EDA420018E834 /* IBPNSCollectionLayoutEnvironment.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D2A22F9CBB100F8904D /* IBPNSCollectionLayoutEnvironment.m */; };
+		3356A14D235EDA420018E834 /* IBPNSDirectionalEdgeInsets.m in Sources */ = {isa = PBXBuildFile; fileRef = 145DA02123097D6E00A044D2 /* IBPNSDirectionalEdgeInsets.m */; };
+		3356A14E235EDA420018E834 /* IBPNSCollectionLayoutItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 143A2D4022F9CBB200F8904D /* IBPNSCollectionLayoutItem.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -150,6 +209,8 @@
 		147537BD230A190F00337C1B /* IBPNSCollectionLayoutSpacing_Private.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IBPNSCollectionLayoutSpacing_Private.h; sourceTree = "<group>"; };
 		147537C5230A6A1300337C1B /* IBPNSCollectionLayoutAnchor_Private.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IBPNSCollectionLayoutAnchor_Private.h; sourceTree = "<group>"; };
 		14F3F7952300542B0096D032 /* IBPNSCollectionLayoutForwardCompatibility.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IBPNSCollectionLayoutForwardCompatibility.h; sourceTree = "<group>"; };
+		3356A154235EDA420018E834 /* IBPCollectionViewCompositionalLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IBPCollectionViewCompositionalLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3356A155235EDA430018E834 /* IBPCollectionViewCompositionalLayout copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "IBPCollectionViewCompositionalLayout copy-Info.plist"; path = "/Users/naomideleeuw/IBPCollectionViewCompositionalLayout/IBPCollectionViewCompositionalLayout copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +226,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				143A2D0722F9C81D00F8904D /* IBPCollectionViewCompositionalLayout.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3356A14F235EDA420018E834 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -190,6 +258,7 @@
 				143A2D0A22F9C81D00F8904D /* Tests */,
 				142355242313498C000884C0 /* Configurations */,
 				143A2CFE22F9C81D00F8904D /* Products */,
+				3356A155235EDA430018E834 /* IBPCollectionViewCompositionalLayout copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -198,6 +267,7 @@
 			children = (
 				143A2CFD22F9C81D00F8904D /* IBPCollectionViewCompositionalLayout.framework */,
 				143A2D0622F9C81D00F8904D /* IBPCollectionViewCompositionalLayoutTests.xctest */,
+				3356A154235EDA420018E834 /* IBPCollectionViewCompositionalLayout.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -358,6 +428,51 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3356A112235EDA420018E834 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3356A113235EDA420018E834 /* IBPNSCollectionLayoutGroupCustomItem.h in Headers */,
+				3356A114235EDA420018E834 /* IBPNSCollectionLayoutEnvironment.h in Headers */,
+				3356A115235EDA420018E834 /* IBPNSCollectionLayoutAnchor.h in Headers */,
+				3356A116235EDA420018E834 /* IBPCollectionViewOrthogonalScrollerEmbeddedScrollView.h in Headers */,
+				3356A117235EDA420018E834 /* IBPNSCollectionLayoutDimension.h in Headers */,
+				3356A118235EDA420018E834 /* IBPNSCollectionLayoutGroup.h in Headers */,
+				3356A119235EDA420018E834 /* IBPNSCollectionLayoutDecorationItem.h in Headers */,
+				3356A11A235EDA420018E834 /* IBPNSCollectionLayoutItem_Private.h in Headers */,
+				3356A11B235EDA420018E834 /* IBPCollectionViewOrthogonalScrollerSectionController.h in Headers */,
+				3356A11C235EDA420018E834 /* IBPNSRectAlignment.h in Headers */,
+				3356A11D235EDA420018E834 /* IBPNSCollectionLayoutSupplementaryItem_Private.h in Headers */,
+				3356A11E235EDA420018E834 /* IBPNSCollectionLayoutVisibleItem.h in Headers */,
+				3356A11F235EDA420018E834 /* IBPNSCollectionLayoutContainer.h in Headers */,
+				3356A120235EDA420018E834 /* IBPNSCollectionLayoutSpacing_Private.h in Headers */,
+				3356A121235EDA420018E834 /* IBPNSCollectionLayoutSupplementaryItem.h in Headers */,
+				3356A122235EDA420018E834 /* IBPUICollectionViewCompositionalLayoutConfiguration.h in Headers */,
+				3356A123235EDA420018E834 /* IBPNSCollectionLayoutEdgeSpacing.h in Headers */,
+				3356A124235EDA420018E834 /* IBPCollectionCompositionalLayoutSolver.h in Headers */,
+				3356A125235EDA420018E834 /* IBPNSCollectionLayoutSize.h in Headers */,
+				3356A126235EDA420018E834 /* IBPNSCollectionLayoutSpacing.h in Headers */,
+				3356A127235EDA420018E834 /* IBPNSDirectionalRectEdge.h in Headers */,
+				3356A128235EDA420018E834 /* IBPNSCollectionLayoutSection.h in Headers */,
+				3356A129235EDA420018E834 /* IBPNSCollectionLayoutContainer_Protocol.h in Headers */,
+				3356A12A235EDA420018E834 /* IBPNSCollectionLayoutEdgeSpacing_Private.h in Headers */,
+				3356A12B235EDA420018E834 /* IBPNSCollectionLayoutGroup_Private.h in Headers */,
+				3356A12C235EDA420018E834 /* IBPUICollectionViewCompositionalLayoutConfiguration_Private.h in Headers */,
+				3356A12D235EDA420018E834 /* IBPNSCollectionLayoutEnvironment_Protocol.h in Headers */,
+				3356A12E235EDA420018E834 /* IBPNSCollectionLayoutItem.h in Headers */,
+				3356A12F235EDA420018E834 /* IBPUICollectionLayoutSectionOrthogonalScrollingBehavior.h in Headers */,
+				3356A130235EDA420018E834 /* IBPNSCollectionLayoutForwardCompatibility.h in Headers */,
+				3356A131235EDA420018E834 /* IBPCollectionViewCompositionalLayout.h in Headers */,
+				3356A132235EDA420018E834 /* IBPCollectionCompositionalLayoutSolverResult.h in Headers */,
+				3356A133235EDA420018E834 /* IBPUICollectionViewCompositionalLayout.h in Headers */,
+				3356A134235EDA420018E834 /* IBPNSCollectionLayoutBoundarySupplementaryItem.h in Headers */,
+				3356A135235EDA420018E834 /* IBPNSCollectionLayoutAnchor_Private.h in Headers */,
+				3356A136235EDA420018E834 /* IBPNSCollectionLayoutSection_Private.h in Headers */,
+				3356A137235EDA420018E834 /* IBPNSCollectionLayoutSize_Private.h in Headers */,
+				3356A138235EDA420018E834 /* IBPNSDirectionalEdgeInsets.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
@@ -397,6 +512,24 @@
 			productReference = 143A2D0622F9C81D00F8904D /* IBPCollectionViewCompositionalLayoutTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		3356A111235EDA420018E834 /* IBPCollectionViewCompositionalLayout Tv */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3356A151235EDA420018E834 /* Build configuration list for PBXNativeTarget "IBPCollectionViewCompositionalLayout Tv" */;
+			buildPhases = (
+				3356A112235EDA420018E834 /* Headers */,
+				3356A139235EDA420018E834 /* Sources */,
+				3356A14F235EDA420018E834 /* Frameworks */,
+				3356A150235EDA420018E834 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "IBPCollectionViewCompositionalLayout Tv";
+			productName = IBPCollectionViewCompositionalLayout;
+			productReference = 3356A154235EDA420018E834 /* IBPCollectionViewCompositionalLayout.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -429,6 +562,7 @@
 			targets = (
 				143A2CFC22F9C81D00F8904D /* IBPCollectionViewCompositionalLayout */,
 				143A2D0522F9C81D00F8904D /* IBPCollectionViewCompositionalLayoutTests */,
+				3356A111235EDA420018E834 /* IBPCollectionViewCompositionalLayout Tv */,
 			);
 		};
 /* End PBXProject section */
@@ -442,6 +576,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		143A2D0422F9C81D00F8904D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3356A150235EDA420018E834 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -484,6 +625,34 @@
 			buildActionMask = 2147483647;
 			files = (
 				143A2D0C22F9C81D00F8904D /* IBPCollectionViewCompositionalLayoutTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3356A139235EDA420018E834 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3356A13A235EDA420018E834 /* IBPNSCollectionLayoutContainer.m in Sources */,
+				3356A13B235EDA420018E834 /* IBPNSCollectionLayoutAnchor.m in Sources */,
+				3356A13C235EDA420018E834 /* IBPNSCollectionLayoutSpacing.m in Sources */,
+				3356A13D235EDA420018E834 /* IBPNSCollectionLayoutDecorationItem.m in Sources */,
+				3356A13E235EDA420018E834 /* IBPCollectionCompositionalLayoutSolver.m in Sources */,
+				3356A13F235EDA420018E834 /* IBPNSCollectionLayoutSupplementaryItem.m in Sources */,
+				3356A140235EDA420018E834 /* IBPNSCollectionLayoutEdgeSpacing.m in Sources */,
+				3356A141235EDA420018E834 /* IBPUICollectionViewCompositionalLayoutConfiguration.m in Sources */,
+				3356A142235EDA420018E834 /* IBPNSCollectionLayoutSize.m in Sources */,
+				3356A143235EDA420018E834 /* IBPCollectionViewOrthogonalScrollerEmbeddedScrollView.m in Sources */,
+				3356A144235EDA420018E834 /* IBPUICollectionViewCompositionalLayout.m in Sources */,
+				3356A145235EDA420018E834 /* IBPNSCollectionLayoutBoundarySupplementaryItem.m in Sources */,
+				3356A146235EDA420018E834 /* IBPCollectionCompositionalLayoutSolverResult.m in Sources */,
+				3356A147235EDA420018E834 /* IBPNSCollectionLayoutSection.m in Sources */,
+				3356A148235EDA420018E834 /* IBPNSCollectionLayoutGroup.m in Sources */,
+				3356A149235EDA420018E834 /* IBPCollectionViewOrthogonalScrollerSectionController.m in Sources */,
+				3356A14A235EDA420018E834 /* IBPNSCollectionLayoutDimension.m in Sources */,
+				3356A14B235EDA420018E834 /* IBPNSCollectionLayoutGroupCustomItem.m in Sources */,
+				3356A14C235EDA420018E834 /* IBPNSCollectionLayoutEnvironment.m in Sources */,
+				3356A14D235EDA420018E834 /* IBPNSDirectionalEdgeInsets.m in Sources */,
+				3356A14E235EDA420018E834 /* IBPNSCollectionLayoutItem.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -540,6 +709,32 @@
 			};
 			name = Release;
 		};
+		3356A152235EDA420018E834 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 142355292313499B000884C0 /* IBPCollectionViewCompositionalLayout.xcconfig */;
+			buildSettings = {
+				INFOPLIST_FILE = "IBPCollectionViewCompositionalLayout copy-Info.plist";
+				PRODUCT_NAME = IBPCollectionViewCompositionalLayout;
+				SDKROOT = appletvos;
+				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
+				TARGETED_DEVICE_FAMILY = "1,2,3";
+				TVOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Debug;
+		};
+		3356A153235EDA420018E834 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 142355292313499B000884C0 /* IBPCollectionViewCompositionalLayout.xcconfig */;
+			buildSettings = {
+				INFOPLIST_FILE = "IBPCollectionViewCompositionalLayout copy-Info.plist";
+				PRODUCT_NAME = IBPCollectionViewCompositionalLayout;
+				SDKROOT = appletvos;
+				SUPPORTED_PLATFORMS = "appletvsimulator appletvos";
+				TARGETED_DEVICE_FAMILY = "1,2,3";
+				TVOS_DEPLOYMENT_TARGET = 11.0;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -566,6 +761,15 @@
 			buildConfigurations = (
 				143A2D1522F9C81D00F8904D /* Debug */,
 				143A2D1622F9C81D00F8904D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3356A151235EDA420018E834 /* Build configuration list for PBXNativeTarget "IBPCollectionViewCompositionalLayout Tv" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3356A152235EDA420018E834 /* Debug */,
+				3356A153235EDA420018E834 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
